@@ -1,0 +1,63 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+#Intro{
+    height:30px;
+    border-radius: 20px;
+    background: rosybrown;
+}
+
+nav{
+    height: 100px;
+    background: rgb(91, 230, 235);
+    margin: 5px;
+}
+
+article{
+    height: 1500px;
+    margin-top: 10%;
+    margin-left: 8%;
+    margin-right: 8%;
+    margin-bottom: 10%;
+    
+}
+
+img{
+    height:100%;
+    width: 100%;
+}
+
+div{
+    height:300px;
+    width: 300px;
+    margin: 2.4%;
+    
+    background: rgb(250, 233, 233);
+    float: left;
+}
+
+table{
+    border: solid 1px;
+}
+
+tr{
+    border: solid 1px;
+    
+}
+
+td{
+    border: solid 1px;
+    padding: 3px;
+    margin: 3px;
+}
+
+footer{
+    height: 50px;
+    background: gray;
+}
+
+hr{
+    border: solid 2px;
+}
